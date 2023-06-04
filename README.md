@@ -1,1 +1,1 @@
-# CodeAlpha_Backfround_Generator
+# CodeAlpha_Background_Generator
